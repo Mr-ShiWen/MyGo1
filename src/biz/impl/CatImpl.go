@@ -1,8 +1,8 @@
 package impl
 
 import (
-	"awesomeProject/src/biz"
 	"fmt"
+	"github.com/Mr-ShiWen/MyGo1/src/biz"
 )
 
 func init() {

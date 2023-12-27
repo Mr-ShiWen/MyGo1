@@ -1,9 +1,9 @@
 package main
 
 import (
-	"awesomeProject/src/biz"
-	_ "awesomeProject/src/biz/impl"
 	"fmt"
+	"github.com/Mr-ShiWen/MyGo1/src/biz"
+	_ "github.com/Mr-ShiWen/MyGo1/src/biz/impl"
 )
 
 type Student struct {
